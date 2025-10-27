@@ -106,9 +106,7 @@ I enjoy designing data products and visualisations with the end user in mind —
 
 <h2 id="accreditations">💫 Accreditations & Certifications</h2>
 
-<a href="https://credentials.databricks.com/26c9126a-4fcf-4351-a185-c56ea76c6903#acc.D3Nzx1wM">
-  <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/163842202" alt="Databricks Accreditation" width="110" />
-</a>
+<a href="https://credentials.databricks.com/b3263588-73bb-4388-9df5-2fb642a1e029#acc.vYrE3mh2"><img src="assets/img/db-azure.svg" alt="Databricks-badge-2" width="110"/></a> <a href="https://credentials.databricks.com/26c9126a-4fcf-4351-a185-c56ea76c6903#acc.D3Nzx1wM"><img src="assets/img/db-fundamentals.svg" alt="Databricks-badge-1" width="110"/></a>
 
 <p align="right">
   <a href="#top">
