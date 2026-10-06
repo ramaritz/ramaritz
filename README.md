@@ -106,8 +106,8 @@ What I enjoy most is designing for the person on the other end: surfacing exactl
 #### Sites & Hosting
 
 [![Hugo Badge](https://img.shields.io/badge/Hugo-FF4088?logo=hugo&logoColor=fff)](#)
+[![Astro Badge](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Docusaurus Badge](https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=fff)](#)
-[![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=fff)](#)
 [![Netlify Badge](https://img.shields.io/badge/Netlify-000000?logo=netlify&logoColor=00C7B7)](#)
 [![Cloudflare Badge](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=fff)](#)
 
